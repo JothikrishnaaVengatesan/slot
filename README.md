@@ -72,13 +72,13 @@ Execute the program using runserver command.
                 <td >PHY</td>
                 <td >CHE</td>
             </tr>
-            <tr align="centre">
+            <tr align="center">
                 <th bgcolor="yellow">3-5</th>
-                <td >MAT</td>
-                <td >SS</td>
-                <td >FWAD</td>
-                <td >PHY</td>
-                <td >CHE</td>
+                <td > MAT </td>
+                <td > SS </td>
+                <td > FWAD </td>
+                <td > PHY </td>
+                <td > CHE </td>
             </tr>
 
         </table>
@@ -125,7 +125,7 @@ Execute the program using runserver command.
 </html>
 ~~~
 ## OUTPUT
-![1](<Screenshot 2024-03-22 091012.png>)
+![1](<Screenshot 2024-03-22 092102.png>)
 ![alt text](<Screenshot 2024-03-20 231614.png>)
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
